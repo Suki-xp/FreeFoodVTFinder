@@ -1,0 +1,552 @@
+[
+    {
+        "date": "Tuesday, November 4 at 5:15PM EST",
+        "location": "Turner Place",
+        "hosted_by": "Securitas"
+    },
+    {
+        "date": "Tuesday, November 4 at 5:00PM EST",
+        "location": "Graduate Student Life Multipurpose Room",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Tuesday, November 4 at 6:30PM EST",
+        "location": "Owen's Ballroom",
+        "hosted_by": "Black Student Alliance"
+    },
+    {
+        "date": "Tuesday, November 4 at 6:30PM EST",
+        "location": "",
+        "hosted_by": "Bradley Study Center"
+    },
+    {
+        "date": "Tuesday, November 4 at 7:30PM EST",
+        "location": "student services building 2nd floor",
+        "hosted_by": "Aurora"
+    },
+    {
+        "date": "Tuesday, November 4 at 7:30PM EST",
+        "location": "Student Services Bldg 2nd floor",
+        "hosted_by": "Aurora"
+    },
+    {
+        "date": "Tuesday, November 4 at 7:00PM EST",
+        "location": "Creativity and Innovation District Community Assembly Space",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Wednesday, November 5 at 12:00PM EST",
+        "location": "Squires Student Center 309. El Centro",
+        "hosted_by": "El Centro - Hispanic and Latinx Cultural Center"
+    },
+    {
+        "date": "Wednesday, November 5 at 12:00PM EST",
+        "location": "Central Drillfield",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Wednesday, November 5 at 4:00PM EST",
+        "location": "Whittemore 542",
+        "hosted_by": "Human Factors and Ergonomic Society: Student Chapter at Virginia Tech"
+    },
+    {
+        "date": "Wednesday, November 5 at 4:00PM EST",
+        "location": "2nd Floor of Newman Library",
+        "hosted_by": "Hokie Wellness"
+    },
+    {
+        "date": "Wednesday, November 5 at 5:00PM EST",
+        "location": "",
+        "hosted_by": "Women's Center"
+    },
+    {
+        "date": "Wednesday, November 5 at 6:00PM EST",
+        "location": "Hitt 338",
+        "hosted_by": "National Society of Black Engineers"
+    },
+    {
+        "date": "Wednesday, November 5 at 7:00PM EST",
+        "location": "Graduate Life Center",
+        "hosted_by": "Student Engagement and Campus Life"
+    },
+    {
+        "date": "Thursday, November 6 at 1:00PM EST",
+        "location": "(Squires 227)",
+        "hosted_by": "Pride Center"
+    },
+    {
+        "date": "Thursday, November 6 at 5:30PM EST",
+        "location": "Graduate Life Center - Meeting Room F (Room 59)",
+        "hosted_by": "American Indian Science and Engineering Society at Virginia Tech"
+    },
+    {
+        "date": "Friday, November 7 at 12:00PM EST",
+        "location": "APIDA + Center",
+        "hosted_by": "APIDA Plus Center"
+    },
+    {
+        "date": "Friday, November 7 at 12:00PM EST",
+        "location": "GLC room C",
+        "hosted_by": "Latin American and Iberian Graduate Students Association"
+    },
+    {
+        "date": "Friday, November 7 at 2:00PM EST",
+        "location": "APIDA + Center",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Friday, November 7 at 4:00PM EST",
+        "location": "Deet's Place Side Room",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Friday, November 7 at 5:00PM EST",
+        "location": "Cheatham Student Lounge on the 1st floorF",
+        "hosted_by": "Forestry Graduate Student Association at Virginia Tech"
+    },
+    {
+        "date": "Friday, November 7 at 6:00PM EST",
+        "location": "",
+        "hosted_by": "Wesley Foundation at Virginia Tech"
+    },
+    {
+        "date": "Friday, November 7 at 5:00PM EST",
+        "location": "Squires Ballroom",
+        "hosted_by": "Society Of Indian Americans"
+    },
+    {
+        "date": "Saturday, November 8 at 5:00PM EST",
+        "location": "BreakZone in Squires",
+        "hosted_by": "First-Generation Student Success"
+    },
+    {
+        "date": "Sunday, November 9 at 11:45AM EST",
+        "location": "The HOP 505",
+        "hosted_by": "Church on Main College Ministry"
+    },
+    {
+        "date": "Sunday, November 9 at 11:00AM EST",
+        "location": "First Baptist Church",
+        "hosted_by": "First-Generation Student Success"
+    },
+    {
+        "date": "Monday, November 10 at 4:00PM EST",
+        "location": "APIDA + Center",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Monday, November 10 at 6:00PM EST",
+        "location": "Squires Room 340",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Monday, November 10 at 6:00PM EST",
+        "location": "",
+        "hosted_by": "Wesley Foundation at Virginia Tech"
+    },
+    {
+        "date": "Tuesday, November 11 at 5:00PM EST",
+        "location": "Perspectives Gallery (225) Squires Student Center",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Tuesday, November 11 at 5:00PM EST",
+        "location": "Squires Student Center, Perspectives Gallery",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Tuesday, November 11 at 5:00PM EST",
+        "location": "Squires Student Center, Perspectives Gallery",
+        "hosted_by": "Global Education Office"
+    },
+    {
+        "date": "Tuesday, November 11 at 5:15PM EST",
+        "location": "Turner Place",
+        "hosted_by": "Securitas"
+    },
+    {
+        "date": "Tuesday, November 11 at 5:00PM EST",
+        "location": "Pride Center (Squires 227)",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Tuesday, November 11 at 5:00PM EST",
+        "location": "Food Science Sensory Kitchen",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Tuesday, November 11 at 5:30PM EST",
+        "location": "Newman Library",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Tuesday, November 11 at 6:00PM EST",
+        "location": "",
+        "hosted_by": "Black Cultural Center"
+    },
+    {
+        "date": "Tuesday, November 11 at 6:00PM EST",
+        "location": "Haymarket Theatre",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Tuesday, November 11 at 7:00PM EST",
+        "location": "Lyric Theater",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Tuesday, November 11 at 7:00PM EST",
+        "location": "Lyric Theater",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Wednesday, November 12 at 9:45AM EST",
+        "location": "Goodwin Hall 440",
+        "hosted_by": "Mechanical Engineering Graduate Student Council"
+    },
+    {
+        "date": "Wednesday, November 12 at 12:00PM EST",
+        "location": "Boeing Auditorium - Academic Building One",
+        "hosted_by": "DC-Graduate School"
+    },
+    {
+        "date": "Wednesday, November 12 at 4:00PM EST",
+        "location": "APIDA + Center (Squires Student Center, Room 140)",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Wednesday, November 12 at 5:00PM EST",
+        "location": "O'Shaughnessy Classroom",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Wednesday, November 12 at 5:30PM EST",
+        "location": "The Holtzman Alumni Center",
+        "hosted_by": "First-Generation Student Success"
+    },
+    {
+        "date": "Wednesday, November 12 at 7:00PM EST",
+        "location": "Squires Commonwealth Ballroom",
+        "hosted_by": "Student Engagement and Campus Life"
+    },
+    {
+        "date": "Thursday, November 13 at 12:00PM EST",
+        "location": "(Squires 227)",
+        "hosted_by": "Pride Center"
+    },
+    {
+        "date": "Thursday, November 13 at 1:00PM EST",
+        "location": "Center for Inclusivity (Room 205B)",
+        "hosted_by": "Roanoke Graduate Student Association"
+    },
+    {
+        "date": "Thursday, November 13 at 2:00PM EST",
+        "location": "Norris Hall Room 325",
+        "hosted_by": "Graduate Engineering Mechanics Society"
+    },
+    {
+        "date": "Thursday, November 13 at 4:00PM EST",
+        "location": "Payne Hall ArchwayP",
+        "hosted_by": "Payne Hall Community"
+    },
+    {
+        "date": "Thursday, November 13 at 5:00PM EST",
+        "location": "APIDA + Center",
+        "hosted_by": "APIDA Plus Center"
+    },
+    {
+        "date": "Thursday, November 13 at 5:30PM EST",
+        "location": "Hefun",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Thursday, November 13 at 6:00PM EST",
+        "location": "Slusher Hall",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Thursday, November 13 at 7:30PM EST",
+        "location": "The Lyric Theater",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Friday, November 14 at 12:00PM EST",
+        "location": "Graduate Life Center",
+        "hosted_by": "First-Generation Student Success"
+    },
+    {
+        "date": "Friday, November 14 at 3:30PM EST",
+        "location": "261 Durham hall",
+        "hosted_by": "IEEE Power Electronics Society (PELS) Student Branch Chapter at Virginia Tech"
+    },
+    {
+        "date": "Friday, November 14 at 4:00PM EST",
+        "location": "BCC at Squires",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Saturday, November 15 at 12:00PM EST",
+        "location": "Indigenous Community Garden (ICG)",
+        "hosted_by": "Hosted by 4 organizations"
+    },
+    {
+        "date": "Saturday, November 15 at 4:00PM EST",
+        "location": "Squires Student Center, Meeting Rm 305",
+        "hosted_by": "African Graduate Students' Organization at Virginia Tech"
+    },
+    {
+        "date": "Saturday, November 15 at 6:00PM EST",
+        "location": "Graduate Life Center - Graduate Student Lounge",
+        "hosted_by": "Graduate Engineering Alliance"
+    },
+    {
+        "date": "Sunday, November 16 at 11:45AM EST",
+        "location": "The HOP 505",
+        "hosted_by": "Church on Main College Ministry"
+    },
+    {
+        "date": "Sunday, November 16 at 3:00PM EST",
+        "location": "East AJ Great Room",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Sunday, November 16 at 5:30PM EST",
+        "location": "Studio 72 lounge",
+        "hosted_by": "Studio72"
+    },
+    {
+        "date": "Monday, November 17 at 4:00PM EST",
+        "location": "APIDA + Center",
+        "hosted_by": "APIDA Plus Center"
+    },
+    {
+        "date": "Tuesday, November 18 at 12:00PM EST",
+        "location": "Academic Building One - 5100O",
+        "hosted_by": "Office for Civil Rights Compliance and Prevention Education"
+    },
+    {
+        "date": "Tuesday, November 18 at 12:00PM EST",
+        "location": "Pride Center (Squires 227)",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Tuesday, November 18 at 5:00PM EST",
+        "location": "Graduate Life Center Room C",
+        "hosted_by": "Olé at Virginia Tech"
+    },
+    {
+        "date": "Tuesday, November 18 at 5:30PM EST",
+        "location": "Newman Library (207A)",
+        "hosted_by": "Chinese Language and Cultural Club"
+    },
+    {
+        "date": "Tuesday, November 18 at 6:00PM EST",
+        "location": "Harper Hall 1025 Community Room, Harper Hall, 240 West Campus Dr, Blacksburg, VA *Enter door into Harper Hall that is facing Cochrane Hall.",
+        "hosted_by": "Hosted by 9 organizations"
+    },
+    {
+        "date": "Tuesday, November 18 at 7:30PM EST",
+        "location": "Harper 3rd Floor Kitchen",
+        "hosted_by": "Aurora"
+    },
+    {
+        "date": "Tuesday, November 18 at 7:00PM EST",
+        "location": "",
+        "hosted_by": "Wesley Foundation at Virginia Tech"
+    },
+    {
+        "date": "Wednesday, November 19 at 9:45AM EST",
+        "location": "Goodwin Hall 440",
+        "hosted_by": "Mechanical Engineering Graduate Student Council"
+    },
+    {
+        "date": "Wednesday, November 19 at 7:00PM EST",
+        "location": "Squires Info Booths",
+        "hosted_by": "Student Engagement and Campus Life"
+    },
+    {
+        "date": "Thursday, November 20 at 12:00PM EST",
+        "location": "Academic Building One, Room 5150O",
+        "hosted_by": "Office for Civil Rights Compliance and Prevention Education"
+    },
+    {
+        "date": "Thursday, November 20 at 5:30PM EST",
+        "location": "Squires 122, Ati: Wa:oki Indigenous Community Center",
+        "hosted_by": "APIDA Plus Center"
+    },
+    {
+        "date": "Thursday, November 20 at 6:00PM EST",
+        "location": "GLC Multipurpose room",
+        "hosted_by": "Vietnamese Community at Virginia Tech"
+    },
+    {
+        "date": "Friday, November 21 at 12:00PM EST",
+        "location": "GLC room C",
+        "hosted_by": "Latin American and Iberian Graduate Students Association"
+    },
+    {
+        "date": "Wednesday, November 26 at 9:45AM EST",
+        "location": "Goodwin Hall 440",
+        "hosted_by": "Mechanical Engineering Graduate Student Council"
+    },
+    {
+        "date": "Monday, December 1 at 12:00PM EST",
+        "location": "Cheatham Hall",
+        "hosted_by": "Fish and Wildlife Graduate Student Association"
+    },
+    {
+        "date": "Monday, December 1 at 4:00PM EST",
+        "location": "APIDA + Center",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Monday, December 1 at 6:30PM EST",
+        "location": "Family Room",
+        "hosted_by": "Securitas"
+    },
+    {
+        "date": "Tuesday, December 2 at 5:00PM EST",
+        "location": "Math Department Commons Room, MCB 455",
+        "hosted_by": "Association for Women in Mathematics"
+    },
+    {
+        "date": "Tuesday, December 2 at 5:15PM EST",
+        "location": "Turner Place",
+        "hosted_by": "Securitas"
+    },
+    {
+        "date": "Tuesday, December 2 at 5:30PM EST",
+        "location": "TBD",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Wednesday, December 3 at 5:00PM EST",
+        "location": "TBD",
+        "hosted_by": "Alt Protein Project at Virginia Tech"
+    },
+    {
+        "date": "Wednesday, December 3 at 6:00PM EST",
+        "location": "Surge Space Building",
+        "hosted_by": "National Society of Black Engineers"
+    },
+    {
+        "date": "Wednesday, December 3 at 7:00PM EST",
+        "location": "Commonwealth Ballroom A in Squires Student Center",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Thursday, December 4 at 5:00PM EST",
+        "location": "Center for the Arts",
+        "hosted_by": "The Center for the Arts at Virginia Tech"
+    },
+    {
+        "date": "Thursday, December 4 at 2:00PM EST",
+        "location": "Johnston Student Center",
+        "hosted_by": "Vietnamese Community at Virginia Tech"
+    },
+    {
+        "date": "Friday, December 5 at 12:00PM EST",
+        "location": "GLC room C",
+        "hosted_by": "Latin American and Iberian Graduate Students Association"
+    },
+    {
+        "date": "Friday, December 5 at 12:30PM EST",
+        "location": "Kelly Hall, Room 310",
+        "hosted_by": "Biomedical Engineering Society"
+    },
+    {
+        "date": "Saturday, December 6 at 9:30AM EST",
+        "location": "Slusher 5th Floor Lounge",
+        "hosted_by": "GenerationOne"
+    },
+    {
+        "date": "Saturday, December 6 at 12:00PM EST",
+        "location": "GLC Multipurpose Room",
+        "hosted_by": "Ballroom Dance at Virginia Tech"
+    },
+    {
+        "date": "Saturday, December 6 at 4:00PM EST",
+        "location": "Graduate Life Center (GLC Meeting Room)",
+        "hosted_by": "African Graduate Students' Organization at Virginia Tech"
+    },
+    {
+        "date": "Sunday, December 7 at 11:45AM EST",
+        "location": "The HOP 505",
+        "hosted_by": "Church on Main College Ministry"
+    },
+    {
+        "date": "Monday, December 8 at 4:00PM EST",
+        "location": "APIDA + Center",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Wednesday, December 10 at 8:30AM EST",
+        "location": "Squires Student Center",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Wednesday, December 10 at 5:00PM EST",
+        "location": "Cheatham Student Lounge on the 1st floorF",
+        "hosted_by": "Forestry Graduate Student Association at Virginia Tech"
+    },
+    {
+        "date": "Wednesday, December 10 at 7:00PM EST",
+        "location": "Commonwealth Ballroom A",
+        "hosted_by": "Student Engagement and Campus Life"
+    },
+    {
+        "date": "Thursday, December 11 at 10:00AM EST",
+        "location": "TBA",
+        "hosted_by": "National Society of Black Engineers"
+    },
+    {
+        "date": "Thursday, December 11 at 10:00AM EST",
+        "location": "Pride Center",
+        "hosted_by": "Queer Grads, Professionals and Allies"
+    },
+    {
+        "date": "Thursday, December 11 at 2:00PM EST",
+        "location": "Squires Room 226",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Thursday, January 22 at 4:30PM EST",
+        "location": "Durham 260",
+        "hosted_by": "Institute for Operations Research and the Management Science Student Chapter"
+    },
+    {
+        "date": "Thursday, January 22 at 5:00PM EST",
+        "location": "Johnston 304",
+        "hosted_by": "Interfaces of Global Change Graduate Student Organization"
+    },
+    {
+        "date": "Friday, January 23 at 8:00PM EST",
+        "location": "Squires Student Center",
+        "hosted_by": "Hosted by 2 organizations"
+    },
+    {
+        "date": "Friday, January 30 at 4:00PM EST",
+        "location": "Deet's Place Side Room",
+        "hosted_by": "Cranwell International Center"
+    },
+    {
+        "date": "Thursday, February 5 at 4:30PM EST",
+        "location": "Durham 260",
+        "hosted_by": "Institute for Operations Research and the Management Science Student Chapter"
+    },
+    {
+        "date": "Monday, February 9 at 6:10PM EST",
+        "location": "GLC Auditorium",
+        "hosted_by": "VTCC Black Cadet Organization"
+    },
+    {
+        "date": "Friday, February 20 at 4:00PM EST",
+        "location": "Deet's Place Side Room",
+        "hosted_by": "Hosted by 3 organizations"
+    },
+    {
+        "date": "Friday, March 27 at 4:00PM EDT",
+        "location": "Deet's Place Side Room",
+        "hosted_by": "Hosted by 3 organizations"
+    }
+]
