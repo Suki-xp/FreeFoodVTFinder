@@ -1,0 +1,65 @@
+{
+    "kylorc0624@vt.edu": [
+        {
+            "date": "Monday, December 1 at 4:00PM EST",
+            "description": "DATE: Mondays starting September 15, 2025\nTIME: 4:00 \u2013 6:00 PM EST\nLOCATION: APIDA + Center (140 Squires)\nLooking for a weekly boost to stay on track with your classes? Let's Lock In meets once a week \u2013 every Monday - to give you a dedicated time and space to focus, get support, and make real progress. Join other students in a relaxed, productive environment where tutors are on hand to help with coursework, and other campus resources are just a step away. Think of it like study hall, but better: whether you're tackling tough assignments, prepping for exams, or just trying to stay organized, Let's Lock In is here to help. Drop in, get focused, and leave feeling accomplished.\nCo-sponsored with the AANAPISI Initiative and the Student Success Center",
+            "hosted_by": "APIDA Plus Center",
+            "info_urls": [
+                {
+                    "label": "Sign in to RSVP",
+                    "url": "https://gobblerconnect.vt.edu/account/login?returnUrl=/event/11443157"
+                }
+            ],
+            "location": "APIDA + Center",
+            "title": "Let's Lock In - AANAPISI",
+            "url": "https://gobblerconnect.vt.edu/event/11443157"
+        },
+        {
+            "date": "Tuesday, December 2 at 5:30PM EST",
+            "description": "Interested in a summer internship or undergraduate research experience? Meet with the College of Science and the Office of Undergraduate Research to learn more about paid research and research for credit over the summer!\nThis event will be held in Newman 101S Classroom.\nIf you are an individual with a disability and desire an accommodation, please contact Jess Hoopengardner at jessh@vt.edu at least 10 business days prior to the event.",
+            "geocoding": null,
+            "hosted_by": "Hosted by 2 organizations",
+            "info_urls": [
+                {
+                    "label": "Sign in to RSVP",
+                    "url": "https://gobblerconnect.vt.edu/account/login?returnUrl=/event/11379105"
+                }
+            ],
+            "location": "Newman 101S Classroom, Blacksburg, VA",
+            "title": "Finding Summer Undergraduate Research Workshop",
+            "url": "https://gobblerconnect.vt.edu/event/11379105"
+        },
+        {
+            "date": "Thursday, December 4 at 7:00PM EST",
+            "description": "Come to the Image to make some thank you notes for housekeeping, while enjoying the sweet, delicious treat of doughy donuts.",
+            "geocoding": null,
+            "hosted_by": "Hoge Hall",
+            "info_urls": [
+                {
+                    "label": "Sign in to RSVP",
+                    "url": "https://gobblerconnect.vt.edu/account/login?returnUrl=/event/11892695"
+                }
+            ],
+            "location": "Image, Blacksburg, VA",
+            "title": "Donuts and HouseKeeping Gratitude notes",
+            "url": "https://gobblerconnect.vt.edu/event/11892695"
+        }
+    ],
+    "testemail@vt.edu": [
+        {
+            "date": "Tuesday, December 2 at 5:00PM EST",
+            "description": "Join us in the math department Commons Room (MCB 455) for holiday snacks and study buddies on Tuesday, December 2. We know finals week is approaching fast, so we wanted to create a space for you to take a break from studying, enjoy some snacks and visit with friends who are also cramming for finals.",
+            "hosted_by": "Association for Women in Mathematics",
+            "info_urls": [
+                {
+                    "label": "Sign in to RSVP",
+                    "url": "https://gobblerconnect.vt.edu/account/login?returnUrl=/event/11833949"
+                }
+            ],
+            "location": "Math Department Commons Room, MCB 455",
+            "title": "AWM Holiday Study Party",
+            "url": "https://gobblerconnect.vt.edu/event/11833949"
+        }
+    ],
+    "demo@vt.edu": []
+}
